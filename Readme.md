@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [WebForm1.aspx](./CS/Dashboard_MFDefaultValues/WebForm1.aspx) (VB: [WebForm1.aspx.vb](./VB/Dashboard_MFDefaultValues/WebForm1.aspx.vb))
+* [WebForm1.aspx](./CS/Dashboard_MFDefaultValues/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/Dashboard_MFDefaultValues/WebForm1.aspx))
 * [WebForm1.aspx.cs](./CS/Dashboard_MFDefaultValues/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/Dashboard_MFDefaultValues/WebForm1.aspx.vb))
 <!-- default file list end -->
 # How to apply default filtering to master filters in ASPxDashboardViewer
