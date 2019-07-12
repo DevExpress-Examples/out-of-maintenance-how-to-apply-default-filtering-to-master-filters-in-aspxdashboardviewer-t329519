@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to apply default filtering to master filters in ASPxDashboardViewer
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t329519)**
+**[[Run Online]](https://codecentral.devexpress.com/t329519/)**
 <!-- run online end -->
 
 
